@@ -1,0 +1,6 @@
+{
+  "name": "Rights-Hub | دليل المحامي القانوني",
+  "description": "دليل قانوني تفاعلي للمحامين باللغة العربية مع نماذج الدعاوى وإجراءاتها ولوحة تحكم لإدارة الأقسام والدعاوى وأكواد الدعوة للمحامين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
